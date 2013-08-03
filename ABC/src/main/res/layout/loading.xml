@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <com.gpse.abc.Loading
+            android:layout_height="fill_parent"
+            android:layout_width="fill_parent"
+            android:id="@+id/imageview"
+            android:src="@drawable/logo"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center">
+    </com.gpse.abc.Loading>
+</LinearLayout>

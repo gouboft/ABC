@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ABC</string>
+    <string name="title">Agricultural Bank of China</string>
+    <string name="action_settings">Settings</string>
+    <string name="mag_card">Magnatic Card</string>
+    <string name="ic_card">Contact IC Card</string>
+    <string name="rf_card">Non-Contact IC Card</string>
+    <string name="serial_port_setup">"Serial Port Setup"</string>
+</resources>

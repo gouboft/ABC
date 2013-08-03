@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">中国农业银行</string>
+    <string name="action_settings">设置</string>
+    <string name="serial_port_setup">"串口设置"</string>
+
+</resources>
