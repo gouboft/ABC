@@ -164,10 +164,9 @@ public class CardReader extends FragmentActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         super.onOptionsItemSelected(item);
-        Log.d(TAG, "settings clicked");
         switch (item.getItemId()) {
             case R.id.action_settings:
-                startActivity(new Intent(this, SerialPortPreferences.class));
+                startActivity(new Intent(this, FragmentPreferences.class));
                 break;
         }
         return true;
